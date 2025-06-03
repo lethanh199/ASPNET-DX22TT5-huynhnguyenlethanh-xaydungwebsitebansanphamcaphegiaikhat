@@ -1,0 +1,6 @@
+03/06/2025
+Tạo các folder repository
+
+Tạo source code bằng Visual Studio 2022
+
+Xây dựng các khung giao diện
